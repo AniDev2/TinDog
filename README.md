@@ -1,7 +1,7 @@
 # TinDog - Tinder for Dogs and their Owners
 
 ## Project Overview
-TinDog is a responsive Bootstrap layout created for learning purposes during the Angela Yu's "Complete 2023 Web Development Bootcamp".
+TinDog is a responsive Bootstrap layout created for learning purposes during the Angela Yu's "Complete 2023 Web Development Bootcamp" course.
 
 ## Technologies Used
 - HTML5
