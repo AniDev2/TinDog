@@ -15,7 +15,4 @@ TinDog is a responsive Bootstrap layout created for learning purposes.
 
 You can access the live demo of this project [here](https://anidev2.github.io/TinDog/).
 
-## Acknowledgments
-Special thanks to Angela Yu and the Udemy "Complete 2023 Web Development Bootcamp" for the educational inspiration behind this project.
-
 Feel free to explore the TinDog layout, and if you have any questions or suggestions, please don't hesitate to get in touch.
